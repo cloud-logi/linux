@@ -16,6 +16,10 @@
 # firewall-cmd --reload
 # systemctl restart nfs-server.services
 ```
+
+NOTA: revisar permisos en el directorio qeu se exporta.
+ 
+ 
 ### configuración en el cliente
 ```
 # yum install nfs-utils
