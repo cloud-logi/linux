@@ -17,7 +17,7 @@
 # systemctl restart nfs-server.services
 ```
 
-NOTA: revisar permisos en el directorio qeu se exporta.
+NOTA: revisar permisos en el directorio que se exporta.
  
  
 ### configuración en el cliente
