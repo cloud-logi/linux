@@ -1,3 +1,6 @@
+# nfs-server
+
+```
 # yum install nfs-utils
 # systemctl enable --now nfs-server.service
 # mkdir /storage-server
@@ -7,3 +10,4 @@
 # firewall-cmd --add-service=nfs --permanent
 # firewall-cmd --reload
 # systemctl restart nfs-server.service
+```
